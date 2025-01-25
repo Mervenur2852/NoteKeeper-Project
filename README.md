@@ -14,3 +14,10 @@ NoteKeeper is a modern and practical note-taking application that allows you to 
 -HTML5 <br>
 -CSS3 <br>
 -JavaScript <br>
+# Screenshot
+
+![gif](https://github.com/user-attachments/assets/1842553a-e167-4dab-baa7-0638e7f4f6e7)
+
+# contact
+mervegecici8@gmail.com <br> 
+www.linkedin.com/in/mervenur-aydın
